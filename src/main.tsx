@@ -35,7 +35,7 @@ import { CorporateCodesScreen } from './pages/corporate/codes.tsx'
 import { CorporateRatesScreen } from './pages/corporate/rates.tsx'
 import CorporateUsersUpload from './pages/corporate/upload.tsx'
 import ReconciliationScreen from './pages/reports/reconciliation.tsx'
-import HealthReportsScreen from './pages/reports/health-reports.tsx'
+
 import OnsiteHours from './pages/appointments/onsite-hours.tsx'
 import OnsiteBranches from './pages/appointments/onsite-branches.tsx'
 import OnsiteBranchDetails from './pages/appointments/onsite-branch-details.tsx'
